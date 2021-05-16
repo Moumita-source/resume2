@@ -1,0 +1,60 @@
+*{
+ margin: 0px;
+ padding: -1px;
+ 
+
+
+}
+
+.container{
+
+ background-color: white;   
+ height:1580px;
+ width:69%;
+ border: 2px solid black;
+ align-items: center;
+ margin: 10px auto
+ 
+
+
+
+}
+
+.top-right-corner{
+
+    position: absolute;
+    top:108px;
+    left: 400px;
+    font-size: 40px;
+
+
+
+}
+
+.container.head.img{
+
+    margin:2px;
+    padding: 2px;
+}
+
+.contact{
+    margin: 0 auto;
+    padding: 30px;
+
+}
+
+
+
+.container .education h2{
+  padding-left: 40px;
+    
+}
+
+.skills{
+    padding-top: 40px;
+}
+
+.projects{
+    padding-top: 40px;
+}
+
